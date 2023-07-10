@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ziya Eren Atik</h1>
-- 🌱 I’m currently learning **MLOps and Kubernetes**
+<hr>
+
+- 🌱 I’m currently learning <b>MLOps</b> and <b>Kubernetes</b>
 
 - 📫 How to reach me **zerenatik@gmail.com**
 
