@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: zerenatik@gmail.com
 -->
 -🔭 I’m currently working on Turkish Statistical Institute <br>
--📫 How to reach me: zerenatik@gmail.com
+-📫 How to reach me: zerenatik@gmail.com <br>
 -🌱 I’m currently learning MLOps and Kubernetes
